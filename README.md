@@ -1,9 +1,11 @@
-### Hi there 👋, Burak HAYIRLI
+### Merhaba 👋, Ben Burak HAYIRLI
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Bir yazılımcı kolay yetişmiyor
 
-Skills: C# / JAVA / SQL / DART /
+## Yazılım Teknolojileri
+*  C#, Java, Dart, Sql
+* 📱Flutter, Android Studio, Eclipse
 
 
 
