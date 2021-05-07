@@ -1,4 +1,4 @@
-### Merhaba 👋, Ben Burak HAYIRLI
+### Merhaba 👋, Ben Burak
 
 ## Yazılım Teknolojileri
 * ⚛ C#, Java, Dart, Sql
