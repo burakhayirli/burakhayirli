@@ -1,7 +1,4 @@
 ### Merhaba 👋, Ben Burak HAYIRLI
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-Bir yazılımcı kolay yetişmiyor
 
 ## Yazılım Teknolojileri
 * ⚛ C#, Java, Dart, Sql
