@@ -4,7 +4,7 @@
 Bir yazılımcı kolay yetişmiyor
 
 ## Yazılım Teknolojileri
-*  C#, Java, Dart, Sql
+* ⚛ C#, Java, Dart, Sql
 * 📱Flutter, Android Studio, Eclipse
 
 
