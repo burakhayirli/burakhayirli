@@ -1,4 +1,4 @@
-### Hi 👋, This is Burak
+### Hi 👋, this is Burak
 
 ## Senior Software Developer
 * ⚛ 📱 C#, .Net Framework-Standard-Core, Java, Spring Boot, nLayered Architecture, Dart, TypeScript, EcmaScript, JavaScript, Devexpress, Angular, React, Laravel, Entity Framework Core, Hibernate, Android SDK, MS SQL, MS Access, MySQL, PostgreSQL, 
